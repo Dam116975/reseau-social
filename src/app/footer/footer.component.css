@@ -1,0 +1,9 @@
+*{
+  background-color: blue;
+  height: 100px;
+  color: white;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
