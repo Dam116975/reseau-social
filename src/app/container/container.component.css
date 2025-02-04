@@ -1,0 +1,13 @@
+ .container{
+   height: calc(100vh - 150px);
+   background-color: orange;
+   display: flex;
+ }
+
+ #nav-bar{
+   flex: 1;
+ }
+
+ #main{
+   flex: 3;
+ }
